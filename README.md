@@ -242,7 +242,7 @@ You have successfully built a complete **Marketing Analysis Dashboard in Excel**
 ## 📬 **Author**
 
 **Abolarin Isaac**
-Aspiring Data & Financial Analyst
+
 
 ---
 
